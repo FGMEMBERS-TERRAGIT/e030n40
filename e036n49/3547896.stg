@@ -1,2 +1,13 @@
+OBJECT_SHARED Models/Power/coolingtower.xml 36.11264 49.969407 113.58 0
+OBJECT_SHARED Models/Power/coolingtower.xml 36.114314 49.969434 118.01 0
 OBJECT_SHARED Models/Airport/ndb.ac 36.221642 49.924569 114.54 180
 OBJECT_SHARED Models/Airport/marker.ac 36.221642 49.924569 114.54 180
+OBJECT_SHARED Models/Transport/SmallStation2Platforms.ac 36.207583 49.971843 111.3 164
+OBJECT_SHARED Models/Trees/billboard-tree.xml 36.223104 49.983165 105.32 0
+OBJECT_SHARED Models/Misc/Pont_2.xml 36.230437 49.983831 100.91 90
+OBJECT_SHARED Models/Misc/Tete_pont.xml 36.230464 49.984289 100.85 90
+OBJECT_SHARED Models/Misc/Tete_pont.xml 36.230534 49.983396 101 270
+OBJECT_SHARED Models/Industrial/iruej_chimney.xml 36.106321 49.971373 107.4 0
+OBJECT_SHARED Models/Trees/lipa_large.xml 36.241922 49.998009 146.55 0
+OBJECT_SHARED Models/StreetFurniture/bus_stop.ac 36.249384 49.99534 111.4 210
+OBJECT_SHARED Models/Communications/Generic_celular_monopole_20m.ac 36.221956 49.984145 101.86 105

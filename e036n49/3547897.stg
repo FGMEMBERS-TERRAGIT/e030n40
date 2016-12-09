@@ -7,5 +7,16 @@ OBJECT_SHARED Models/Communications/vordme_1.xml 36.285254 49.926793 152.95 180
 OBJECT_SHARED Models/Airport/marker.ac 36.263032 49.92457 115.42 180
 OBJECT_SHARED Models/Airport/marker.ac 36.319699 49.924293 130.93 180
 OBJECT_SHARED Models/Airport/marker.ac 36.359422 49.924571 160.78 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 36.324459 49.989629 -277.78 0
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 36.32462 49.989601 -276.99 0
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 36.324781 49.98958 -275.69 0
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 36.324974 49.989553 -274.11 0
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 36.325157 49.989532 -272.67 0
 OBJECT_SHARED Models/Airport/localizer.xml 36.2725 49.924722 144.83 0
 OBJECT_SHARED Models/Airport/localizer.xml 36.311389 49.925 141.74 179.67
+OBJECT_SHARED Models/Industrial/factory_b_060x060.xml 36.325006 49.990422 155 0
+OBJECT_SHARED Models/Industrial/TPS_Drujba2_chimney.ac 36.324277 49.989084 171.24 0
+OBJECT_SHARED Models/Airport/weatherradar_h24_d11.xml 36.291897 49.922583 147.19 0
+OBJECT_SHARED Models/Fauna/cow.ac 36.311531 49.923654 132.26 0
+OBJECT_SHARED Models/Airport/PAPI2.ac 36.277331 49.926448 148.97 7
+OBJECT_SHARED Models/Airport/PAPI2.ac 36.302988 49.9272 151.94 187
