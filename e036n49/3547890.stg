@@ -1,1 +1,6 @@
+OBJECT_SHARED Models/Airport/ils.xml 36.644115 49.82892 130.86 7
+OBJECT_SHARED Models/Airport/marker.ac 36.637197 49.858265 135.41 0
+OBJECT_SHARED Models/Airport/marker.ac 36.645099 49.818187 132.07 0
+OBJECT_SHARED Models/Airport/marker.ac 36.650168 49.790011 135.07 0
+OBJECT_SHARED Models/Airport/localizer.xml 36.638787 49.850829 130.66 7
 OBJECT_SHARED Models/Military/radar-shelter-mil.xml 36.642741 49.839193 127.56 0

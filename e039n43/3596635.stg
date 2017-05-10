@@ -6,8 +6,8 @@ OBJECT_SHARED Models/Communications/vordme_1.xml 39.948333 43.403333 -1.06 180
 OBJECT_SHARED Models/Airport/marker.ac 39.91 43.435 0.55 180
 OBJECT_SHARED Models/Airport/marker.ac 39.931667 43.415 5.59 180
 OBJECT_SHARED Models/Airport/marker.ac 39.941667 43.428333 5.42 180
-OBJECT_SHARED Models/Airport/localizer.xml 39.961667 43.455 24.15 120.95
-OBJECT_SHARED Models/Airport/localizer.xml 39.968333 43.453333 25.63 155.82
+OBJECT_SHARED Models/Airport/localizer.xml 39.960151 43.45503 24.06 330.07
+OBJECT_SHARED Models/Airport/localizer.xml 39.966674 43.453464 25.74 294.07
 OBJECT_SHARED Models/Boundaries/Fence_10m.ac 39.922171 43.438976 5.21 60
 OBJECT_SHARED Models/Airport/tower_EPRZ.xml 39.948089 43.450141 19.29 25
 OBJECT_SHARED Models/Aircraft/mil-mi-8-tan-lowpoly.ac 39.928844 43.43794 4.92 210
