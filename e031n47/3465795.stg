@@ -10,3 +10,4 @@ OBJECT_SHARED Models/Airport/marker.ac 31.941686 47.070572 55.71 180
 OBJECT_SHARED Models/Airport/marker.ac 31.971408 47.087239 33.03 180
 OBJECT_SHARED Models/Airport/localizer.xml 31.901667 47.0475 38.4 128.28
 OBJECT_SHARED Models/Airport/localizer.xml 31.943056 47.070556 55.24 308.26
+OBJECT_SHARED Models/Airport/EBLG_terminal_airport.ac 31.920197 47.053838 50.34 0

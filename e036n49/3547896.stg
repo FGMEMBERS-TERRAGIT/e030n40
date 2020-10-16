@@ -2,6 +2,7 @@ OBJECT_SHARED Models/Power/coolingtower.xml 36.112581 49.969403 113.07 0
 OBJECT_SHARED Models/Power/coolingtower.xml 36.114008 49.969472 113.07 0
 OBJECT_SHARED Models/Airport/ndb.ac 36.221642 49.924569 114.54 180
 OBJECT_SHARED Models/Airport/marker.ac 36.221642 49.924569 114.54 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 36.216817 49.99156 -347.18 0
 OBJECT_SHARED Models/Industrial/WaterWorks30m.xml 36.227632 49.949813 105.93 0
 OBJECT_SHARED Models/Industrial/WaterWorks30m.xml 36.227809 49.94952 106.15 0
 OBJECT_SHARED Models/Industrial/WaterWorks30m.xml 36.227988 49.949223 106.36 0
@@ -107,8 +108,15 @@ OBJECT_SHARED Models/Power/transformer_station.ac 36.107801 49.96902 107.35 270
 OBJECT_SHARED Models/Power/transformer_station.ac 36.108297 49.96904 106.31 270
 OBJECT_SHARED Models/Power/transformer_station.ac 36.108643 49.96904 105.58 270
 OBJECT_SHARED Models/Communications/Generic_celular_monopole_20m.ac 36.221956 49.984145 101.86 105
+OBJECT_SHARED Models/Industrial/Crane-100m.xml 36.234064 49.991129 120.62 140
+OBJECT_SHARED Models/Industrial/Crane-100m.xml 36.234101 49.994271 131.45 135
+OBJECT_SHARED Models/Industrial/Crane-100m.xml 36.234241 49.992022 125.2 80
+OBJECT_SHARED Models/Industrial/Crane-100m.xml 36.235566 49.991098 112.02 270
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac 36.218968 49.984976 -346.66 0
 OBJECT_SHARED Models/Power/Transmission_25m_Steel_H.ac 36.106825 49.968889 105.29 270
 OBJECT_SHARED Models/Power/Transmission_25m_Steel_H.ac 36.107318 49.96891 107.43 270
 OBJECT_SHARED Models/Power/Transmission_25m_Steel_H.ac 36.107812 49.968924 108.31 270
 OBJECT_SHARED Models/Power/Transmission_25m_Steel_H.ac 36.108305 49.968951 107.28 270
 OBJECT_SHARED Models/Power/Transmission_25m_Steel_H.ac 36.108649 49.968951 106.55 270
+OBJECT_STATIC Arrow_Bridge.xml 36.225545 49.984883 103.14 176
+OBJECT_STATIC KPML_27.ac 36.222964 49.983292 103.43 16.7
